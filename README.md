@@ -1,5 +1,5 @@
 # TourismPondicherry
-A sample tourism site made for web dev assignment - Web dev witht HTML5, CSS3 and PHP7
+A sample tourism site made for web dev assignment - Web dev with HTML5, CSS3 and PHP7
 
 - register.php : Registration form with required input fields
 
