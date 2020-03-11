@@ -7,10 +7,10 @@ if(in_array($_SERVER['REQUEST_URI'],$url))
     exit();
 }
 // connection info.
-$DATABASE_HOST = 'localhost';
-$DATABASE_USER = 'root';
+$DATABASE_HOST = '';
+$DATABASE_USER = '';
 $DATABASE_PASS = '';
-$DATABASE_NAME = 'quser636';
+$DATABASE_NAME = '';
 
 // connect using the info above.
 $con = mysqli_connect($DATABASE_HOST, $DATABASE_USER, $DATABASE_PASS, $DATABASE_NAME);
